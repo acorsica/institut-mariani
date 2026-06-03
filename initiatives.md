@@ -18,6 +18,30 @@ Dépôt : [`acorsica/privai`](https://github.com/acorsica/privai)
 
 Document de cadrage : [`acorsica/privai/charte.md`](https://github.com/acorsica/privai/blob/main/charte.md)
 
+## Kudos
+
+Kudos est une monnaie complémentaire conçue comme une couche publique, volontaire, nominative, transparente et traçable de don / contre-don, adossée à l’euro.
+
+Elle vise à articuler transaction économique, reconnaissance mutuelle, contribution territoriale, réserve en euros et convertibilité gouvernée.
+
+Dépôt : [`acorsica/Kudos`](https://github.com/acorsica/Kudos)
+
+Document source : [`JeanHuguesRobert/barons-Mariani/research/kudos.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudos.md)
+
+Document de statut : [`acorsica/Kudos/STATUT.md`](https://github.com/acorsica/Kudos/blob/main/STATUT.md)
+
+## Mariani Village
+
+Mariani Village est une initiative d’habitat minimaliste autonome à base de containers maritimes, destinée à loger des étudiants pendant l’année universitaire et des touristes ou occupants saisonniers pendant la saison estivale.
+
+Le projet articule logement étudiant, accueil touristique, habitat réversible, autonomie énergétique, mobilité annuelle, infrastructures sobres et capacité territoriale.
+
+Dépôt : [`acorsica/marianivillage`](https://github.com/acorsica/marianivillage)
+
+Document source : [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/mariani_village.md)
+
+Document de statut : [`acorsica/marianivillage/STATUT.md`](https://github.com/acorsica/marianivillage/blob/main/STATUT.md)
+
 ## Inseme
 
 Inseme est une infrastructure civique générique, neutre, open source et multi-instance.
