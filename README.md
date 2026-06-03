@@ -18,51 +18,31 @@ Il contribue notamment à :
 - la préfiguration institutionnelle de structures futures ;
 - la souveraineté énergétique, numérique et territoriale.
 
+Document de mission : [`mission.md`](mission.md)
+
 ## Initiatives liées
 
-### PrivAI
+La liste de référence des initiatives liées à l’Institut Mariani est tenue dans :
 
-PrivAI est une initiative en développement au sein de l’Institut Mariani.
+- [`initiatives.md`](initiatives.md)
 
-Elle concerne la gouvernance fiduciaire des jumeaux numériques, des exports conversationnels, des Cogentigrams et des signatures structurelles.
+Elle inclut notamment :
 
-Dépôt : [`acorsica/privai`](https://github.com/acorsica/privai)
+- [`acorsica/privai`](https://github.com/acorsica/privai) — gouvernance fiduciaire des traces personnelles, jumeaux numériques, Cogentigrams et signatures structurelles ;
+- [`acorsica/Kudos`](https://github.com/acorsica/Kudos) — monnaie complémentaire Kudos, don / contre-don public, volontaire, nominatif, traçable et adossé à l’euro ;
+- [`acorsica/marianivillage`](https://github.com/acorsica/marianivillage) — habitat minimaliste autonome étudiants / touristes à base de containers maritimes ;
+- [`JeanHuguesRobert/inseme`](https://github.com/JeanHuguesRobert/inseme) — infrastructure civique générique, neutre, open source et multi-instance ;
+- [`JeanHuguesRobert/cogentia`](https://github.com/JeanHuguesRobert/cogentia) — Cogentia, Cogentigrams, continuations, protocoles de reprise et jumeaux numériques ;
+- [`JeanHuguesRobert/marenostrum`](https://github.com/JeanHuguesRobert/marenostrum) — MareNostrum, DHITL, souveraineté énergétique et numérique ;
+- [`JeanHuguesRobert/FractaVolta`](https://github.com/JeanHuguesRobert/FractaVolta) — initiative entrepreneuriale à impact destinée à devenir une SAS ;
+- [`JeanHuguesRobert/barons-Mariani`](https://github.com/JeanHuguesRobert/barons-Mariani) — futur fonds de dotation Barons Mariani et Musée Mariani des Possibles ;
+- [`JeanHuguesRobert/Inox`](https://github.com/JeanHuguesRobert/Inox) — langage, runtime et substrat technique ;
+- [`JeanHuguesRobert/pertitellu`](https://github.com/JeanHuguesRobert/pertitellu) — corpus politique séparé lié au Petit Parti et à Pertitellu.
 
-### Inseme
+## Documents structurants
 
-Inseme est une infrastructure civique générique, neutre, open source et multi-instance.
-
-Elle peut servir des communautés territoriales, associatives, institutionnelles, thématiques, informelles ou politiques juridiquement séparées.
-
-Dépôt : [`JeanHuguesRobert/inseme`](https://github.com/JeanHuguesRobert/inseme)
-
-### Cogentia
-
-Cogentia documente les outils cognitifs, les Cogentigrams, les continuations, les protocoles de reprise et les jumeaux numériques.
-
-Dépôt : [`JeanHuguesRobert/cogentia`](https://github.com/JeanHuguesRobert/cogentia)
-
-### MareNostrum
-
-MareNostrum documente une stratégie de souveraineté énergétique et numérique, incluant DHITL — *Democratic Humans In The Loop* — et la gouvernance démocratique des infrastructures de calcul.
-
-Dépôt : [`JeanHuguesRobert/marenostrum`](https://github.com/JeanHuguesRobert/marenostrum)
-
-### FractaVolta
-
-FractaVolta est une initiative entrepreneuriale à impact destinée à devenir une SAS.
-
-Tant que la SAS n’est pas constituée, FractaVolta reste documentée dans le corpus mais ne constitue pas une activité commerciale exploitée par C.O.R.S.I.C.A.
-
-Dépôt : [`JeanHuguesRobert/FractaVolta`](https://github.com/JeanHuguesRobert/FractaVolta)
-
-### Barons Mariani
-
-Le futur fonds de dotation Barons Mariani et le Musée Mariani des Possibles sont documentés dans un dépôt propre.
-
-Tant que le fonds n’a pas acquis sa personnalité juridique, sa préfiguration peut être portée transitoirement par C.O.R.S.I.C.A., notamment à travers l’Institut Mariani.
-
-Dépôt : [`JeanHuguesRobert/barons-Mariani`](https://github.com/JeanHuguesRobert/barons-Mariani)
+- [`mission.md`](mission.md) — mission de l’Institut Mariani.
+- [`initiatives.md`](initiatives.md) — initiatives liées et documents de référence.
 
 ## Principe de séparation
 
