@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "institutional-document"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "institutional-document"
+classification_confidence: "medium"
+---
+
 # Initiatives liées à l’Institut Mariani
 
 Ce document présente les principales initiatives liées à l’Institut Mariani, émanation recherche et développement de l’association C.O.R.S.I.C.A.
@@ -38,7 +49,7 @@ Le projet articule logement étudiant, accueil touristique, habitat réversible,
 
 Dépôt : [`acorsica/marianivillage`](https://github.com/acorsica/marianivillage)
 
-Document source : [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/mariani_village.md)
+Document source : [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/mariani_village.md)
 
 Document de statut : [`acorsica/marianivillage/STATUT.md`](https://github.com/acorsica/marianivillage/blob/main/STATUT.md)
 
