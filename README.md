@@ -1,3 +1,23 @@
+---
+title: Institut Mariani
+author: unknown
+date: '2026-06-03'
+document_role: source
+document_kind: documentation
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: repository
+  origin_repository: acorsica/institut-mariani
+  origin_ref: dd22065
+  origin_date: '2026-06-03'
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
 # Institut Mariani
 
 L’**Institut Mariani** est l’émanation recherche et développement de l’association **C.O.R.S.I.C.A.** — *Corse Organisant la Réunion Sur Internet de Compétences Autonomes*.
