@@ -48,3 +48,14 @@ The Institut Mariani repository documents the research and development perimeter
 - [acorsica/Kudos](https://github.com/acorsica/Kudos)
 - [acorsica/marianivillage](https://github.com/acorsica/marianivillage)
 
+<!-- BEGIN_AUTO: index_catalog -->
+## Corpus catalog
+
+*Generated navigation. Editorial sections above remain human-maintained.*
+
+| Document | Role | Updated |
+|---|---|---|
+| [Institut Mariani](../README.md) | source | 2026-06-03 |
+| [institut-mariani agent mandate](../AGENTS.md) | operational | 2026-08-11 |
+
+<!-- END_AUTO: index_catalog -->
