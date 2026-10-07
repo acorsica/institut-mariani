@@ -84,3 +84,31 @@ L’Institut Mariani peut entretenir des liens documentaires, doctrinaux ou tech
 Ces liens ne valent pas fusion institutionnelle, portage juridique, financement, exploitation commerciale ou soutien politique.
 
 > L’interconnexion documentaire ne vaut pas confusion institutionnelle.
+
+
+## Portée statutaire et limite d'autorité
+
+La présente mission décrit le **périmètre fonctionnel de travail de l'Institut Mariani en 2026**. Elle ne modifie pas, par elle-même, les statuts de C.O.R.S.I.C.A. et ne crée aucun pouvoir juridique supplémentaire.
+
+Le référentiel statutaire actuellement démontré est constitué par les statuts signés à Corte le 25 décembre 1995, transcrits et vérifiés dans le Corpus public :
+
+- `JeanHuguesRobert/barons-Mariani/projects/institut/sources/statuts-corsica-1995-transcription.md` ;
+- `JeanHuguesRobert/barons-Mariani/projects/institut/preparation/current-statutes-baseline.md`.
+
+Ces statuts ont pour objet originel la promotion de la Corse sur Internet. Ils ne confèrent pas expressément à l'Institut Mariani — qui n'y est pas nommé — un pouvoir autonome de portage juridique de structures futures.
+
+Ainsi :
+
+~~~text
+mission fonctionnelle de préfiguration
+→ ESTABLISHED comme document institutionnel de travail
+
+modification de l'objet statutaire
+→ exige une décision conforme aux statuts applicables
+
+portage juridique d'une initiative tierce
+→ doit être établi séparément
+→ par base statutaire suffisante + décision compétente + effectivité
+~~~
+
+> **La préfiguration institutionnelle n'est pas, par elle-même, un acte de constitution ni un portage juridique.**
